@@ -1,6 +1,7 @@
 # Python virtual environment
 venv/
 .env/
+Data/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
@@ -18,4 +19,4 @@ __pycache__/
 *.swp
 *.swo
 *.tmp
-*.~
+*
